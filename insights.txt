@@ -1,0 +1,21 @@
+Key Insights:
+
+1. Alcohol content shows a strong positive relationship with wine quality, indicating that higher alcohol levels are associated with better-rated wines.
+
+2. Volatile acidity has a negative impact on quality, suggesting that controlling acidity is critical for producing higher-quality wine.
+
+3. Wine quality is influenced by a combination of multiple chemical properties rather than a single dominant factor.
+
+4. The dataset shows a concentration of mid-range quality wines, with relatively few high-quality samples.
+
+---
+
+Business Recommendations:
+
+1. Optimise fermentation processes to achieve balanced alcohol levels while maintaining product consistency.
+
+2. Monitor and control volatile acidity during production to improve overall wine quality.
+
+3. Use predictive modelling to classify wine quality early in the production process for better quality control.
+
+4. Focus on improving mid-range wines to shift more products into higher quality categories, increasing overall product value.
